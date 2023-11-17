@@ -30,7 +30,7 @@
         <li><code>javax.swing</code> and <code>java.awt</code> libraries.</li>
     </ul>
     <h2>Version</h2>
-    <p><code>1.0,</code> last updated on <code>Nov 8th, 2023.</code></p>
+    <p><code>1.3,</code> last updated on <code>Nov 8th, 2023.</code></p>
     <h2>Contact</h2>
     <p>
         For any inquiries or suggestions, please contact Ryan Hatch at <a href="mailto:ryan@rshatch.com">ryan@rshatch.com</a>.
