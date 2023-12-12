@@ -66,7 +66,7 @@
 <p>This project is protected under copyright laws. All rights are reserved for the original content.</p>
 
 <h2 id="contact">Contact</h2>
-<p>For more information or queries, contact me at <a href="mailto:ryan@rshatch.com">ryan@rshatch.com</a>.</p>
+<p>For more information contact me at <a href="mailto:ryan@rshatch.com">ryan@rshatch.com</a>.</p>
 
 </body>
 </html>
